@@ -1,10 +1,11 @@
 # 👾 **Janadiel Sousa**
   ## Hey guys👋 welcome to my profile!
   
-        I'm a software engineering graduate from Universidade ESTÁCIO and I've been diving more and more into this world of programming!
-        I currently work with people, process and finance management in retail. I'm improving myself for a career change.
-        I'm a great technology enthusiast and fascinated by software and game development. 
-        With each learning experience I feel even more excited!
+    I'm a software engineering graduate from Universidade ESTÁCIO
+    and I've been diving more and more into this world of programming!
+    I currently work with people, process and finance management in retail. I'm improving myself for a career change.
+    I'm a great technology enthusiast and fascinated by software and game development. 
+    With each learning experience I feel even more excited!
 
 ## Languages ​​Practiced
 
